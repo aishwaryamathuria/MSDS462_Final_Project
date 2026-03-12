@@ -1,1 +1,3 @@
 *.DS_Store
+mri_dataset
+.ipynb_checkpoints
