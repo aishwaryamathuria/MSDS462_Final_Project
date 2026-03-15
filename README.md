@@ -19,7 +19,7 @@ We also developed a Flask API and a user interface that allow MRI images to be u
 ## Backend
 
 ```
-cd /Users/mathuria/Desktop/MSDS462_Capstone_Project
+cd MSDS462_Capstone_Project
 python3.11 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
@@ -30,7 +30,7 @@ python app.py
 ## Frontend
 
 ```
-cd /Users/mathuria/Desktop/MSDS462_Capstone_Project/frontend
+cd MSDS462_Capstone_Project/frontend
 npm install
 npm run dev
 ```
