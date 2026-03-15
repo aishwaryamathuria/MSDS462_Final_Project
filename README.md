@@ -10,7 +10,7 @@ We also developed a Flask API and a user interface that allow MRI images to be u
 - `frontend/`: React + Vite web app for uploading MRI images and viewing predictions.
 - `brain_tumor_densenet121_training.ipynb`: Training and evaluation code for DenseNet121 tumor classification model.
 - `data_analysis/data_analysis.ipynb`: Exploratory analysis on the MRI dataset and labels.
-- `model_exploration/VLM_explanation.ipynb`: Tests VLM prompts and explanation quality for model outputs.
+- `model_exploration`: Tests VLM prompts and explanation quality for model outputs.
 
 ## Backend
 
