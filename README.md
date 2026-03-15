@@ -12,6 +12,10 @@ We also developed a Flask API and a user interface that allow MRI images to be u
 - `data_analysis/data_analysis.ipynb`: Exploratory analysis on the MRI dataset and labels.
 - `model_exploration`: Tests VLM prompts and explanation quality for model outputs.
 
+## Dot env setup
+- Reaname **dot.env** to **.env**
+- Add the Hugging face user token in front of HF_TOKEN
+
 ## Backend
 
 ```
